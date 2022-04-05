@@ -1,0 +1,171 @@
+{
+    "shoes": [
+        {
+            "heading": "Under Armour Men's Running Shoe",
+            "price": "$68.33",
+            "previousPrice": "$78.33",
+            "rating": 4,
+            "imageAddress": "https://m.media-amazon.com/images/I/410-L0vF3+L._AC_UY500_.jpg",
+            "description": "Charged Cushioning midsole uses compression molded foam for ultimate responsiveness & durability"
+        },
+        {
+            "heading": "Nike Men's Flex Experience Shoe",
+            "price": "$48.33",
+            "previousPrice": "$78.33",
+            "rating": 3,
+            "imageAddress": "https://m.media-amazon.com/images/I/71-HfpTEjNL._AC_UX500_.jpg",
+            "description": "Shaft measures approximately low-top from arch foam for ultimate responsiveness & durability"
+        },
+        {
+            "heading": "Mens Running Shoes Slip-on Walking",
+            "price": "$68.33",
+            "previousPrice": "$98.33",
+            "rating": 4,
+            "imageAddress": "https://m.media-amazon.com/images/I/7176Qz0XgNL._AC_UY500_.jpg",
+            "description": "Flexible and non-slip outsole: A softer foam cushions your foot,the outsole with irregular pattern adds traction and durability, and the high-quality materials make the shoes bend when moving."
+        },
+        {
+            "heading": "TSLA Men's Trail Running Shoes",
+            "price": "$50.33",
+            "previousPrice": "$78.33",
+            "rating": 3,
+            "imageAddress": "https://m.media-amazon.com/images/I/711dpd7H9SL._AC_SX679_.jpg",
+            "description": "Multi-directional flexible groove and cushioned insole for balance and stability"
+        },
+        {
+            "heading": "Troadlop Men's Running Shoes",
+            "price": "$68.33",
+            "previousPrice": "$70",
+            "rating": 5,
+            "imageAddress": "https://m.media-amazon.com/images/I/615V+J89ulL._AC_UY500_.jpg",
+            "description": "Charged Cushioning midsole uses compression molded foam for ultimate responsiveness & durability"
+        }
+    ],
+    "shirt":[
+        {
+            "heading":" Short-Sleeve Printed Poplin Shirt",
+            "price":"$12",
+            "previousPrice":"$20",
+            "rating": 3,
+            "imageAddress":"https://m.media-amazon.com/images/I/91UcAHWaafL._AC_UX466_.jpg",
+            "description":"Soft, durable and cozy tumbled poplin for a lived-in feel right away"
+        },
+        {
+            "heading":"Short Sleeve Polo Shirt Sky Blue",
+            "price":"$20",
+            "previousPrice":"$25",
+            "rating": 5,
+            "imageAddress":"https://m.media-amazon.com/images/I/51OYS0EJwSL._AC_UX385_.jpg",
+            "description":"ATTENTION BUYER: Embroidered Swoosh design trademark at the 'RIGHT SIDE' of the chest."
+        },
+        {
+            "heading":"Regular-Fit Short-Sleeve V-Neck T-Shirt",
+            "price":"$12",
+            "previousPrice":"$22",
+            "rating": 3,
+            "imageAddress":"https://m.media-amazon.com/images/I/81c4LkwpkgL._AC_UX466_.jpg",
+            "description":"Roomy through chest and waist , Smooth and comfortable lightweight jersey fabric"
+        },
+        {
+            "heading":"Long Sleeve Henley Shirt",
+            "price":"$9",
+            "previousPrice":"$15",
+            "rating": 4,
+            "imageAddress":"https://m.media-amazon.com/images/I/61S8FYg4doL._AC_UX522_.jpg",
+            "description":"Henley sports a contrast color three-button placket , Famously durable beefy fabric"
+        },
+        {
+            "heading":"Men's T-Shirts - Short Sleeve",
+            "price":"$19",
+            "previousPrice":"$30",
+            "rating": 3,
+            "imageAddress":"https://m.media-amazon.com/images/I/51yHbB+WdGL._AC_UX425_.jpg",
+            "description":"Our mission is provide you with premium everyday basics and apparel with the best mens t shirts."
+        }
+    ],
+    "watch":[
+        {
+            "heading":"TouchElex Smart Watch",
+            "price":"$39",
+            "previousPrice":"$50",
+            "rating": 3,
+            "imageAddress":"https://m.media-amazon.com/images/I/61JgyZ95-FL._AC_SX569_.jpg",
+            "description":"The Aluminium built smartwatch is not only long to last, but also more stylish. 8mm of thickness make it more slim to suit your clothes."
+        },
+        {
+            "heading":"Donerton Smart Watch",
+            "price":"$33",
+            "previousPrice":"$44",
+            "rating": 4,
+            "imageAddress":"https://m.media-amazon.com/images/I/61sWtUsCuZL._AC_SX425_.jpg",
+            "description":"Ip67 waterproof: with the technology of ip67 waterproof, the smart watch will not be damaged even if you wash your hands,"
+        },
+        {
+            "heading":"Garmin 010-02064-00 ",
+            "price":"$50",
+            "previousPrice":"%80",
+            "rating": 3,
+            "imageAddress":"https://m.media-amazon.com/images/I/6181t0057sL._AC_SX679_.jpg",
+            "description":"Monitor your estimated heart rate, activity and stress; Train with preloaded activity profiles. Strap material: Silicone"
+        },
+        {
+            "heading":"Fossil Men's Gen",
+            "price":"$44",
+            "previousPrice":"$70",
+            "rating": 5,
+            "imageAddress":"https://m.media-amazon.com/images/I/71Gtzq2yqnL._AC_UX679_.jpg",
+            "description":"Stay connected with notifications for calls, texts, apps. Automatic time zone and calendar syncing."
+        },
+        {
+            "heading":"OBKBO Smart Watch",
+            "price":"$22",
+            "previousPrice":"$49",
+            "rating": 5,
+            "imageAddress":"https://m.media-amazon.com/images/I/814Bag-GpuL._AC_SX425_.jpg",
+            "description":"10+ SMART REMINDER - Lift wrist, directly read all information synchronized with the phone (SMS, SNS messages, Facebook, Instagram, Snapchat, Twitter, etc). "
+        }
+    ],
+    "jeans":[
+        {
+            "heading":" Men's Athletic-fit Stretch Jean",
+            "price":"$20",
+            "previousPrice":"$29",
+            "rating": 3,
+            "imageAddress":"https://m.media-amazon.com/images/I/81FudOYfMEL._AC_UY500_.jpg",
+            "description":"These classic 5-pocket Athletic-Fit jeans are crafted with a bit of stretch for additional comfort and to help maintain their shape"
+        },
+        {
+            "heading":"Women's Ripped",
+            "price":"$30",
+            "previousPrice":"$39",
+            "rating": 3,
+            "imageAddress":"https://m.media-amazon.com/images/I/61XJ42BffZL._AC_UY500_.jpg",
+            "description":"The design of skinny fit style, to perfectly show your beautiful leg silhouette and the shapes of your curves."
+        },
+        {
+            "heading":"Levi's Men's 569",
+            "price":"$30",
+            "previousPrice":"$33",
+            "rating": 5,
+            "imageAddress":"https://m.media-amazon.com/images/I/91u9LrmhEQL._AC_UY500_.jpg",
+            "description":"Sits below waist, Extra room through seat and thigh, Straight leg, Zip fly"
+        },
+        {
+            "heading":"GLORIA VANDERBILT ",
+            "price":"$18",
+            "previousPrice":"$24",
+            "rating": 4,
+            "imageAddress":"https://m.media-amazon.com/images/I/71OuoF0-jJL._AC_UY500_.jpg",
+            "description":"VERSATILITY - Goes great with all tops from fashionable to basic a T-shirts and all footwear from stylish boots to your favorit shoes."
+        },
+        {
+            "heading":"Wrangler Authentics Men's",
+            "price":"$23",
+            "previousPrice":"$40",
+            "rating": 5,
+            "imageAddress":"https://m.media-amazon.com/images/I/71Kr2SwizZL._AC_UY500_.jpg",
+            "description":"DURABLE MATERIALS. This relaxed fit jean is made with durable cotton denim that will hold up over time -- even through long days on the job"
+        }
+    ]
+}
+

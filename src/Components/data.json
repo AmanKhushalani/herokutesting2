@@ -1,0 +1,46 @@
+{
+    "shoes": [
+        {
+            "heading": "Under Armour Men's Running Shoe",
+            "price": "$68.33",
+            "previousPrice": "$78.33",
+            "rating": 4,
+            "imageAddress": "https://m.media-amazon.com/images/I/410-L0vF3+L._AC_UY500_.jpg",
+            "description": "Charged Cushioning midsole uses compression molded foam for ultimate responsiveness & durability"
+        },
+        {
+            "heading": "Nike Men's Flex Experience Shoe",
+            "price": "$48.33",
+            "previousPrice": "$78.33",
+            "rating": 3,
+            "imageAddress": "https://m.media-amazon.com/images/I/71-HfpTEjNL._AC_UX500_.jpg",
+            "description": "Shaft measures approximately low-top from arch foam for ultimate responsiveness & durability"
+        },
+        {
+            "heading": "Mens Running Shoes Slip-on Walking",
+            "price": "$68.33",
+            "previousPrice": "$98.33",
+            "rating": 4,
+            "imageAddress": "https://m.media-amazon.com/images/I/7176Qz0XgNL._AC_UY500_.jpg",
+            "description": "Flexible and non-slip outsole: A softer foam cushions your foot,the outsole with irregular pattern adds traction and durability, and the high-quality materials make the shoes bend when moving."
+        },
+        {
+            "heading": "TSLA Men's Trail Running Shoes",
+            "price": "$50.33",
+            "previousPrice": "$78.33",
+            "rating": 3,
+            "imageAddress": "https://m.media-amazon.com/images/I/711dpd7H9SL._AC_SX679_.jpg",
+            "description": "Multi-directional flexible groove and cushioned insole for balance and stability"
+        },
+        {
+            "heading": "Troadlop Men's Running Shoes",
+            "price": "$68.33",
+            "previousPrice": "$70",
+            "rating": 5,
+            "imageAddress": "https://m.media-amazon.com/images/I/615V+J89ulL._AC_UY500_.jpg",
+            "description": "Charged Cushioning midsole uses compression molded foam for ultimate responsiveness & durability"
+        }
+    ]
+}
+
+
