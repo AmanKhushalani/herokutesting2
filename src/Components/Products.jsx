@@ -1,9 +1,8 @@
-import axios from "axios";
 import { useParams } from "react-router-dom"
 import PrimarySearchAppBar from "./AppBar";
 import ProductCard from "./ProductCard";
 import { getData } from '../Adapters/fetch'
-import { useEffect, useState } from "react";
+import {  useState } from "react";
 
 
 const Products = () => {

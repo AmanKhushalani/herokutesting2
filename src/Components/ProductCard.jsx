@@ -7,7 +7,6 @@ import IconButton from '@mui/material/IconButton';
 import FavoriteIcon from '@mui/icons-material/Favorite';
 import ShoppingBagIcon from '@mui/icons-material/ShoppingBag';
 import Typography from '@mui/material/Typography';
-import Box from '@mui/material/Box';
 import Rating from '@mui/material/Rating';
 
 export default function ProductCard(props) {
