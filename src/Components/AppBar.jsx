@@ -19,6 +19,7 @@ import NotificationsIcon from '@mui/icons-material/Notifications';
 import MoreIcon from '@mui/icons-material/MoreVert';
 import { Avatar } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
+import { SearchedKeyContext } from '../App';
 
 const Search = styled('div')(({ theme }) => ({
     position: 'relative',
@@ -154,9 +155,17 @@ export default function PrimarySearchAppBar() {
         </Menu>
     );
 
-    const [searchValue , updateSearchValue] = React.useState("")
+
+    const moveToProducts = () =>{
+        searchedKey.updateSearchedKey(searchValue);
+        navigate('/products/' + searchValue);
+    }
+
+    const [searchValue, updateSearchValue] = React.useState("")
 
     const navigate = useNavigate()
+
+    const searchedKey = React.useContext(SearchedKeyContext);
 
     return (
         <Box sx={{ flexGrow: 1 }}>
@@ -186,16 +195,16 @@ export default function PrimarySearchAppBar() {
                         <StyledInputBase
                             placeholder="Search…"
                             inputProps={{ 'aria-label': 'search' }}
-                            onChange={(e)=>updateSearchValue(e.target.value)}
+                            onChange={(e) => updateSearchValue(e.target.value)}
                             value={searchValue}
-                            onKeyDown={(e) => {
-                                if(e.key == "Enter" && searchValue.trim()!="")
-                                {
-                                    navigate('/products/'+searchValue);
-                                }
-                            }}
                         />
                     </Search>
+
+                    <IconButton size="large"
+                        aria-label="show 17 new notifications"
+                        color="inherit" onClick={moveToProducts}>
+                        <SearchIcon />
+                    </IconButton>
                     <Box sx={{ flexGrow: 1 }} />
                     <Box sx={{ display: { xs: 'none', md: 'flex' } }}>
                         <IconButton aria-label="add to favorites" size="large" color="inherit">
